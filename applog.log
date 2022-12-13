@@ -1,0 +1,4 @@
+[main] INFO org.example.Main - Se va a escribir un hola mundo
+[main] TRACE org.example.Main - Fin de programa
+[main] ERROR org.example.Main - En caso de que el programa reviente haremos uso de estos mensajes de log.error
+[main] WARN org.example.Main - En caso de que queramos dar un aviso de algo que pudiese ocurrir utilizar estos mensajes de log.warn
